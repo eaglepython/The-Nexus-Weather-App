@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom base styles */
+body {
+  @apply antialiased min-h-screen bg-gradient-to-br from-blue-50 via-cyan-50 to-indigo-100 text-slate-800;
+}
+
+#root {
+  @apply min-h-screen;
+}
+
+/* Smooth scroll & selection */
+html { scroll-behavior: smooth; }
+::selection { @apply bg-blue-300/60; }
+
+/* Utility layer extensions (optional) */
+@layer utilities {
+  .glass {
+    @apply bg-white/70 backdrop-blur-md border border-white/40 shadow-lg;
+  }
+}
