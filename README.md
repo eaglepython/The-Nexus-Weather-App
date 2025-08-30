@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/Version-1.0.0-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Build-Passing-success?style=flat-square" />
 </p>
+<img width="1123" height="492" alt="image" src="https://github.com/user-attachments/assets/098148fb-0f3d-4342-81f9-a242fc4c93bb" />
 
 <p align="center">
   <strong>🌟 Where meteorology meets cutting-edge technology 🌟</strong>
